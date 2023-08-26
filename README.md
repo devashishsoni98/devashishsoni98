@@ -1,8 +1,7 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F588181932%2Fe36ec678-7984-4cdd-8e4c-a3932772ff8e&tbnid=kfpqCuXmfeFi9M&vet=12ahUKEwiDjIaHsfqAAxVr2jgGHUXDAc4QMygFegQIARBp..i&imgrefurl=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&docid=hqmA8T4OFW0sOM&w=1600&h=700&q=coding%20banner%20gif&ved=2ahUKEwiDjIaHsfqAAxVr2jgGHUXDAc4QMygFegQIARBp)]
+![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)
 <h1 align="center">Hi 👋, I'm Devashish Soni!</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devashishsoni98&label=Profile%20views&color=0e75b6&style=flat" alt="devashishsoni98" /> </p>
 
