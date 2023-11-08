@@ -19,4 +19,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devashishsoni98&" alt="devashishsoni98" /></p>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=devashishsoni98&theme=default)](https://git.io/streak-stats)
