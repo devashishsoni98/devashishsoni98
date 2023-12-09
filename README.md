@@ -21,4 +21,17 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devashishsoni98&layout=compact)
 
+#### Top Repositories
+
+
+<a href="https://github.com/devashishsoni98/my-portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devashishsoni98&repo=my-portfolio&theme=buefy" />
+</a>
+<a href="https://github.com/devashishsoni98/Web-Based-Skyline-Management-System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devashishsoni98&repo=Web-Based-Skyline-Management-System&theme=buefy" />
+</a>
+<br />
+<br />
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=devashishsoni98&theme=default)
+
