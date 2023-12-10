@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devashishsoni98&label=Profile%20views&color=0e75b6&style=flat" alt="devashishsoni98" /> </p>
 
-- 🌱 I’m currently learning **React Js, SCSS**
+- 🌱 I’m currently learning **React Js**
 
 - 👨‍💻 All of my projects are available at [https://ds-portfolio-website.netlify.app/](https://ds-portfolio-website.netlify.app/)
 
