@@ -21,7 +21,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devashishsoni98&layout=compact)
 
-#### Top Repositories
+#### My Top Repositories
 
 
 <a href="https://github.com/devashishsoni98/my-portfolio">
