@@ -109,10 +109,14 @@
 
 
 ---
-
 ### 🐍 Contribution Snake Game
+<div align="center">
 
-![snake gif](https://github.com/Dev-a-licious/Dev-a-licious/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/devashishsoni98/devashishsoni98/blob/output/github-snake-dark.svg)
+
+
+</div>
 
 ---
 
@@ -128,5 +132,5 @@
 </p>
 
 <p align="center">
-  Made with ❤️ by <strong>Dev-a-licious</strong> 🚀
+  Made with ❤️ by <strong>Dev-a-licious (Devashish 😇)</strong> 🚀
 </p>
