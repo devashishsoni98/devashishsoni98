@@ -3,10 +3,9 @@
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100%" />
 </p> -->
 
-
-
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devashishsoni98/devashishsoni98/main/giff.png" alt="Dev-a-licious Banner  " />
+</p>
 
 
 <p align="center">
