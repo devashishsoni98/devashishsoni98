@@ -94,17 +94,9 @@
 
 ### 🔗 Connect with Me
 
-<a href="https://www.linkedin.com/in/devashish-soni" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Devashish%20Soni-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://ds-portfolio-website.netlify.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio" />
-</a>
-
-<a href="https://drive.google.com/file/d/1cidAFKmpf5LHJV0cY-LS827PmQsFdEJ6/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Resume-green?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/-Devashish%20Soni-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devashish-soni)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://ds-portfolio-website.netlify.app/)
+[![Resume](https://img.shields.io/badge/-Resume-green?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1cidAFKmpf5LHJV0cY-LS827PmQsFdEJ6/view?usp=sharing)
 
 
 ---
