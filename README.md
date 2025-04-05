@@ -1,37 +1,136 @@
-![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)
-<h1 align="center">Hi 👋, I'm Devashish Soni</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devashishsoni98&label=Profile%20views&color=0e75b6&style=flat" alt="devashishsoni98" /> </p>
-
-- 🌱 I’m currently learning  **React Js**
-
-- 👨‍💻 All of my projects are available at [https://ds-portfolio-website.netlify.app/](https://ds-portfolio-website.netlify.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/devashish-soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devashish-soni" height="30" width="40" /></a>
+<!-- GIF Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<h1 align="center">
+  👀 Hey there! I'm <strong>Devashish</strong> — but you can call me <strong>Dev-a-licious</strong> 😜  
+  <br/>
+  💻 Code with ❤️, ship with 🚢, and always build with style 💫
+</h1>
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devashishsoni98&layout=compact)
 
-#### My Top Repositories:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=500&color=FACC15&center=true&vCenter=true&repeat=true&width=600&lines=🚀+Full-Stack+Developer+%7C+MERN+%26+Java+Stack;🤖+AI+%26+ML+Explorer;🧠+DSA+%26+System+Design+Enthusiast;🎯+Hackathon+Lover+%7C+Builder;🎓Third+Year+CSE+Student" />
+</p>
 
 
-<a href="https://github.com/devashishsoni98/my-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devashishsoni98&repo=my-portfolio&theme=buefy" />
-</a>
-<a href="https://github.com/devashishsoni98/Web-Based-Skyline-Management-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devashishsoni98&repo=Web-Based-Skyline-Management-System&theme=buefy" />
-</a>
-<br />
-<br />
+---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=devashishsoni98&theme=default)
+### 👨‍💻 About Me
 
+- 🎓 B.Tech CSE | PIET Jaipur | 2026
+- 🔭 Currently working on: **DSA Mastery**, System Design, and Full-Stack Projects
+- 🧠 Currently diving deep into: Scalable Backends, Next.js Magic ✨ & AI Integrations with OpenAI 🚀
+- 👯 I love collaborating in hackathons and building innovative tech
+
+---
+
+### 💼 Projects I’ve Built
+
+| Project | Description |
+|--------|-------------|
+| 🚀 **Shelfly** | Java Spring Boot + React inventory system with low-stock alerts, dashboards, auth & more |
+| 🤖 **Gesture Controlled File/PPT System** | Control files/PPTs using hand gestures via Python & OpenCV |
+| 🎯 **Smart India Hackathon -  ATISHA** | Finalist team! Building a NEP-based AI career counseling platform |
+
+---
+
+### 🛠️ Skills & Tools
+
+#### 🚀 Programming Languages  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+#### 🌐 Frontend & UI  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+---
+
+#### 🛠️ Backend & Databases  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+#### ⚙️ Tools & Platforms  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devashishsoni98&show_icons=true&theme=radical&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devashishsoni98&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devashishsoni98&layout=compact&theme=gruvbox&langs_count=6" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-Devashish%20Soni-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devashish-soni-579b55247/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://devashishsoni.vercel.app)
+[![Resume](https://img.shields.io/badge/-Resume-green?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1cidAFKmpf5LHJV0cY-LS827PmQsFdEJ6/view?usp=sharing)
+
+---
+
+### ✨ Fun Facts
+
+- 🤖 I talk to AI more than humans (but don’t worry, I’m still social).
+- 🛠️ I break stuff... then fix it better. That’s real learning, right?
+- 🧠 I learn faster when there’s a deadline involved. 😅 
+- 💼 Dream project? Imagine **AI that thinks**, **DevTools that empower**, and a mission that creates **real change** — not just built for users, but built to inspire. 💡🚀
+
+
+---
+
+### 🐍 Contribution Snake Game
+
+![snake gif](https://github.com/Dev-a-licious/Dev-a-licious/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🎉 Final Note
+
+> From side-projects to full-scale products — every step shapes the developer I strive to be. 🚀  
+> *Driven by passion, fueled by impact — let’s build the future, one line at a time.* 🔥💡
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" />
+</p>
+
+<p align="center">
+  Made with ❤️ by <strong>Dev-a-licious</strong> 🚀
+</p>
