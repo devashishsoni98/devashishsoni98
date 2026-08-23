@@ -95,7 +95,7 @@
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-Devashish%20Soni-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devashish-soni)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://ds-portfolio-website.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://devashishsoni.netlify.app/)
 [![Resume](https://img.shields.io/badge/-Resume-green?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1cidAFKmpf5LHJV0cY-LS827PmQsFdEJ6/view?usp=sharing)
 
 
